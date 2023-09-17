@@ -1,0 +1,17 @@
+.body {
+    max-height: 100vh;
+    max-width: 100vw;
+    position: relative;
+}
+
+.header {
+  margin: 0;
+}
+
+.navbar {
+margin-bottom: 15px;
+}
+
+.footer {
+position: fixed;
+}
